@@ -5,6 +5,7 @@ public class MainApplication {
          System.out.println("Hello World");
      System.out.println(11111);
          System.out.println(11111);
-         System.out.println(11111);
+         System.out.println(1122221);
+         System.out.println(110001);
      }
 }
